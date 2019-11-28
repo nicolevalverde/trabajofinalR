@@ -1,6 +1,9 @@
-# trabajofinalR
+# Business Performance Analysis
+Autora: Nicole Valverde Montes De Oca
 
+A continuación se detallan los paquetes y librerías necesarias para la correcta ejecución del programa.
 
+Paquetes a instalar:
 
 * install.packages("XML") 
 * install.packages("tidyverse")
@@ -17,7 +20,7 @@
 * install.packages("kableExtra")
 
 
-
+Librerías a utilizar:
 
 * library(tidyverse)
 * library(XML)
