@@ -5,7 +5,7 @@
 * install.packages("XML") 
 * install.packages("tidyverse")
 * install.packages("gganimate")
-* install.package("reshape2")
+* install.packages("reshape2")
 * install.packages("tidyr")
 * install.packages("ggplot2")
 * install.packages("plyr")
